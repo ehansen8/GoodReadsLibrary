@@ -10,7 +10,7 @@ def get_last_name(full_name):
 
 # Add number of reviews to weight the ratings
 
-key: str = "FtnOigZcvTP66VcQtByXA"  # Private Key for accessing GoodReads API
+key: str = "FtnOigZcvTP66VcQtByXA"
 url = "https://www.goodreads.com/search.xml"
 path = "text_files/"
 write_file = "title_rating"
